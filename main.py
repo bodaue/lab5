@@ -8,3 +8,7 @@ def print_goodbye_2():
 
 def print_goodbye_3():
     print("Goodbye 3")
+
+
+def print_goodbye_4():
+    print("Goodbye 4")

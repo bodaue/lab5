@@ -8,3 +8,7 @@ def print_master_2():
 
 def print_master_3():
     print("Master 3")
+
+
+def print_master_4():
+    print("Master 4")

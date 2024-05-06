@@ -8,3 +8,7 @@ def print_hello_2():
 
 def print_hello_3():
     print("Hello 3")
+
+
+def print_hello_4():
+    print("Hello 4")
